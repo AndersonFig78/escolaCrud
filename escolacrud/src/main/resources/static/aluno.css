@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+}
+
+fieldset{
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+fieldset fieldset{
+    border: 0px;
+}
